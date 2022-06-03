@@ -5,6 +5,6 @@
 
 * Can Automatically log you in
 * Will automatically perform certain dailies for you
-* Will automatically open various other daily's windows for you to check/do yourself i.e.  stock links, trudy's slot machine
+* Will automatically open various other windows for you to check/do yourself i.e.  stock links, trudy's slot machine
 * *Automatically pauses 3 seconds between each automated daily
 
