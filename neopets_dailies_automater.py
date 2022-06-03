@@ -1,6 +1,5 @@
 ######################################################
 #   Neopets Dailies Automater 
-#   Performs the dailies I usually do via web automation
 #   Designed only for use with Microsoft Edge 
 #
 #   Developed by Bradley
