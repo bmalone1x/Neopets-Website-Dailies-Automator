@@ -1,6 +1,7 @@
 # Neopets-Website-Dailies-Automator
-Automates some daily games/clicks on the Neopet's website
-Tested only on Microsoft Edge and requires download of msedgedriver.exe in the same path
+*Automates some daily games/clicks on the Neopet's website
+*Tested only on Microsoft Edge  
+*Requires download of msedgedriver.exe in the same path
 
 * Can Automatically log you in
 * Will automatically perform certain dailies for you
